@@ -1,0 +1,22 @@
+{
+  "name": "awesome-breakthrough-english",
+  "version": "1.0.0",
+  "description": "An awesome guide that curates the most practical English usage habits for front-end coders",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyuanL/awesome-breakthrough-english.git"
+  },
+  "keywords": [
+    "style guide",
+    "english"
+  ],
+  "author": "Zhiyuan Lin <miller.lin@synchronoss.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiyuanL/awesome-breakthrough-english/issues"
+  },
+  "homepage": "https://github.com/zhiyuanL/awesome-breakthrough-english#readme"
+}
