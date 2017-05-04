@@ -1,0 +1,7 @@
+
+* This search is a multi-condition search(Search by file name, file type and sort type).//描述多条件的搜索
+* If file name is not null, will show clear button, click the clear button can clear the value of search filed and show the search result search by file type and sort type.
+* If file name is not null, change file type or sort type, do not clear the value of search field, and show search result search by multi-condition (file name, file type and sort type).
+* Effect all drop down list.After user change combo box, will focus on next field automatically.
+
+* It cased by slow-speed of network， after user click 'add' button, we will create a new folder component, then set the folder name can be edit. if save failed, we will remove this component, but when network is slowly, and user keep add new folder under this folder, may cause this issue.I find that it cost about 10s to save this folder by webtop.log
