@@ -1,0 +1,10 @@
+Hi Matthieu,
+
+In Ux2.2 rrd, there is a feature which is swipe left/right to load prev/next message (PERIDOT-9431, PERIDOT-9432). In message detail, user can zoom in and zoom out. If message detail is 
+
+zoomed in, there will be horizontal scroller. In this case(not only this case), how to swipe left/right to load prev/next message? 
+
+BTW
+In current UI, there are up/down icon to load prev/next message at top of detail. And in IOS native mail application, It has not the feature swiping left/right to load prev/next message. It 
+
+also load prev/next message by the up/down icon at top of detail.
