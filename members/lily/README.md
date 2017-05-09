@@ -1,10 +1,3 @@
-Scene description: 
-discuss to add a folder name in mail list view when search across folder is used
+# Catalog
 
-Mail content:
-It's technically possible to implement the improvement in RichUI.
-Need about 1 day to display folder name like Gmail in Preview None & Preview Below mode.
-But in Preview Right mode it's difficult to find a place to show folder name.
-If put it beside subject, the space for subject and from will be very small.
-If put it right bottom corner, there is other 4  icons, attachment icon ,flag icon, conversation number (configurable) and mail size(configurable).
-Need a UI design in Preview Right mode.
+- [2017-05-09](./2017-05-09.md)
