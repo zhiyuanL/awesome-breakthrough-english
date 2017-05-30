@@ -17,9 +17,9 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Jary        | WIP    |
-|            | Larry       | WIP    |
-|            | Kaka        | WIP    |
+| Miller     | Jary        | DONE   |
+|            | Larry       | DONE   |
+|            | Kaka        | DONE   |
 | Jake       | Bin         | WIP    |
 |            | Dean        | WIP    |
 |            | Shirley     | WIP    |
