@@ -1,5 +1,18 @@
 # Notes
 
+## Sprint #2 (06/05 ~ 06/16)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Hai        | Jary        | DONE   |
+|            | Larry       | DONE   |
+| Jake       | Kaka        | DONE   |
+|            | Bin         | WIP    |
+|            | Dean        | WIP    |
+| Miller     | Shirley     | WIP    |
+|            | Lily        | WIP    |
+|            | Charlie     | WIP    |
+
 ## Sprint #2 (05/22 ~ 06/02)
 
 | Corrector  | Member      | Status |
