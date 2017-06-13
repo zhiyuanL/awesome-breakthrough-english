@@ -4,9 +4,9 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Hai        | Jary        | DONE   |
-|            | Larry       | DONE   |
-| Jake       | Kaka        | DONE   |
+| Hai        | Jary        | WIP    |
+|            | Larry       | WIP    |
+| Jake       | Kaka        | WIP    |
 |            | Bin         | WIP    |
 |            | Dean        | WIP    |
 | Miller     | Shirley     | WIP    |
@@ -20,11 +20,11 @@
 | Miller     | Jary        | DONE   |
 |            | Larry       | DONE   |
 |            | Kaka        | DONE   |
-| Jake       | Bin         | WIP    |
-|            | Dean        | WIP    |
-|            | Shirley     | WIP    |
+| Jake       | Bin         | DONE   |
+|            | Dean        | DONE   |
+|            | Shirley     | DONE   |
 | Hai        | Lily        | WIP    |
-|            | Charlie     | WIP    |
+|            | Charlie     | DONE   |
 
 ## Sprint #1 (05/08 ~ 05/19)
 
