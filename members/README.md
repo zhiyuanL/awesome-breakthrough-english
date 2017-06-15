@@ -4,14 +4,14 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Hai        | Jary        | WIP    |
-|            | Larry       | WIP    |
-| Jake       | Kaka        | WIP    |
-|            | Bin         | WIP    |
-|            | Dean        | WIP    |
 | Miller     | Shirley     | WIP    |
 |            | Lily        | WIP    |
 |            | Charlie     | WIP    |
+| Jake       | Kaka        | WIP    |
+|            | Bin         | WIP    |
+|            | Dean        | WIP    |
+| Hai        | Jary        | WIP    |
+|            | Larry       | WIP    |
 
 ## Sprint #2 (05/22 ~ 06/02)
 
