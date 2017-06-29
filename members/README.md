@@ -1,17 +1,31 @@
 # Notes
 
-## Sprint #3 (06/05 ~ 06/16)
+## Sprint #4 (06/19 ~ 06/30)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
 | Miller     | Shirley     | WIP    |
-|            | Lily        | WIP    |
 |            | Charlie     | WIP    |
-| Jake       | Kaka        | WIP    |
-|            | Bin         | WIP    |
-|            | Dean        | WIP    |
-| Hai        | Jary        | WIP    |
+|            | Kaka        | WIP    |
+| Jake       | Bin         | WIP    |
+|            | Lily        | WIP    |
 |            | Larry       | WIP    |
+| Hai        | Dean        | WIP    |
+
+P.S. Jary has reached our criteria, so the review is no longer needed.
+
+## Sprint #3 (06/05 ~ 06/16)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Shirley     | DONE   |
+|            | Lily        | DONE   |
+|            | Charlie     | DONE   |
+| Jake       | Kaka        | DONE   |
+|            | Bin         | DONE   |
+|            | Dean        | DONE   |
+| Hai        | Jary        | DONE   |
+|            | Larry       | DONE   |
 
 ## Sprint #2 (05/22 ~ 06/02)
 
