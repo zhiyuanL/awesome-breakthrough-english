@@ -4,11 +4,11 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Shirley     | WIP    |
-|            | Charlie     | WIP    |
-|            | Kaka        | WIP    |
-| Jake       | Bin         | WIP    |
-|            | Lily        | WIP    |
+| Miller     | Shirley     | DONE   |
+|            | Charlie     | DONE   |
+|            | Kaka        | DONE   |
+| Jake       | Bin         | DONE   |
+|            | Lily        | DONE   |
 |            | Larry       | WIP    |
 | Hai        | Dean        | WIP    |
 
