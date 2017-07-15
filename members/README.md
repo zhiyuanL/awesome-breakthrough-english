@@ -4,9 +4,9 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Bin         | WIP    |
-|            | Dean        | WIP    |
-|            | Shirley     | WIP    |
+| Miller     | Bin         | DONE   |
+|            | Dean        | DONE   |
+|            | Shirley     | DONE   |
 | Jake       | Larry       | WIP    |
 |            | Charlie     | WIP    |
 |            | Kaka        | WIP    |
