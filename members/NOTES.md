@@ -2,7 +2,7 @@
 
 ## 空格
 
-- 括号两侧需要添加空格 [出处](https://english.stackexchange.com/questions/241408/do-parentheses-need-spaces-either-side)
+- 括号两侧需要添加空格 [出处在这里](https://english.stackexchange.com/questions/241408/do-parentheses-need-spaces-either-side)
 - 单词与标点符号之间无需添加空格
 - 逗号之后要添加空格
       
