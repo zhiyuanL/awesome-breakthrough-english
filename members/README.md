@@ -7,9 +7,9 @@
 | Miller     | Bin         | DONE   |
 |            | Dean        | DONE   |
 |            | Shirley     | DONE   |
-| Jake       | Larry       | WIP    |
-|            | Charlie     | WIP    |
-|            | Kaka        | WIP    |
+| Jake       | Larry       | DONE   |
+|            | Charlie     | DONE   |
+|            | Kaka        | DONE   |
 | Hai        | Lily        | WIP    |
 
 ## Sprint #4 (06/19 ~ 06/30)
