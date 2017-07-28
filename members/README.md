@@ -1,5 +1,17 @@
 # Notes
 
+## Sprint #6 (07/15 ~ 07/28)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Lily        | WIP    |
+|            | Kaka        | WIP    |
+|            | Shirley     | WIP    |
+| Jake       | Larry       | WIP    |
+|            | Dean        | WIP    |
+|            | Bin         | WIP    |
+| Hai        | Charlie     | WIP    |
+
 ## Sprint #5 (07/01 ~ 07/14)
 
 | Corrector  | Member      | Status |
