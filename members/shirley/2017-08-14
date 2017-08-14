@@ -1,0 +1,9 @@
+The option of ‘conversion view’ will not be saved. If user choose it  in main account, switch  to extenal account, this option will show 
+the default state (unselected). So if user want to show the mail list with ‘conversion view’ in extenal account, he/she has to choose
+again. There are two reasons for this behavior :
+
+1.External account dosen’t support ‘conversion view’.
+
+2.Keep consistent with ‘Attachemnt view’.
+
+So this is actually working as expected.
