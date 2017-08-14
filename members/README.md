@@ -4,13 +4,13 @@
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Dean        | DONE   |
-|            | Kaka        | DONE   |
-|            | Shirley     | DONE   |
-| Jake       | Bin         | DONE   |
-|            | Charlie     | DONE   |
-|            | Larry       | DONE   |
-| Hai        | Lily        | DONE   |
+| Miller     | Dean        | WIP    |
+|            | Kaka        | WIP    |
+|            | Shirley     | WIP    |
+| Jake       | Bin         | WIP    |
+|            | Charlie     | WIP    |
+|            | Larry       | WIP    |
+| Hai        | Lily        | WIP    |
 
 ## Sprint #6 (07/15 ~ 07/28)
 
