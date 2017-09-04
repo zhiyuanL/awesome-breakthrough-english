@@ -10,19 +10,18 @@
 | Jake       | Bin         | WIP    |
 |            | Lily        | WIP    |
 |            | Larry       | WIP    |
-| Hai        |             |        |
 
 ## Sprint #7 (07/29 ~ 08/11)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Dean        | WIP    |
-|            | Kaka        | WIP    |
-|            | Shirley     | WIP    |
-| Jake       | Bin         | WIP    |
-|            | Charlie     | WIP    |
-|            | Larry       | WIP    |
-| Hai        | Lily        | WIP    |
+| Miller     | Dean        | DONE   |
+|            | Kaka        | DONE   |
+|            | Shirley     | DONE   |
+| Jake       | Bin         | DONE   |
+|            | Charlie     | DONE   |
+|            | Larry       | DONE   |
+| Hai        | Lily        | DONE   |
 
 ## Sprint #6 (07/15 ~ 07/28)
 
