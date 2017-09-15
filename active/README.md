@@ -1,15 +1,25 @@
 # Notes
 
+## Sprint #9 (09/04 ~ 09/15)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Bin         | DONE   |
+|            | Lily        | DONE   |
+|            | Shirley     | DONE   |
+| Jake       | Dean        | WIP    |
+|            | Charlie     | WIP    |
+
 ## Sprint #8 (08/14 ~ 09/01)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Dean        | WIP    |
-|            | Charlie     | WIP    |
-|            | Shirley     | WIP    |
-| Jake       | Bin         | WIP    |
-|            | Lily        | WIP    |
-|            | Larry       | WIP    |
+| Miller     | Dean        | DONE   |
+|            | Charlie     | DONE   |
+|            | Shirley     | DONE   |
+| Jake       | Bin         | DONE   |
+|            | Lily        | DONE   |
+|            | Larry       | DONE   |
 
 ## Sprint #7 (07/29 ~ 08/11)
 
