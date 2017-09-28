@@ -1,5 +1,16 @@
 # Notes
 
+## Sprint #10 (09/18 ~ 09/28)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Dean        | WIP    |
+|            | Martin      | WIP    |
+|            | Shirley     | WIP    |
+| Jake       | Bin         | WIP    |
+|            | Charlie     | WIP    |
+|            | Lily        | WIP    |
+
 ## Sprint #9 (09/04 ~ 09/15)
 
 | Corrector  | Member      | Status |
@@ -7,8 +18,8 @@
 | Miller     | Bin         | DONE   |
 |            | Lily        | DONE   |
 |            | Shirley     | DONE   |
-| Jake       | Dean        | WIP    |
-|            | Charlie     | WIP    |
+| Jake       | Dean        | DONE   |
+|            | Charlie     | DONE   |
 
 ## Sprint #8 (08/14 ~ 09/01)
 
@@ -66,7 +77,7 @@
 |            | Kaka        | DONE   |
 | Jake       | Bin         | DONE   |
 |            | Lily        | DONE   |
-|            | Larry       | WIP    |
+|            | Larry       | DONE   |
 | Hai        | Dean        | WIP    |
 
 P.S. Jary has reached our criteria, so the review is no longer needed.
