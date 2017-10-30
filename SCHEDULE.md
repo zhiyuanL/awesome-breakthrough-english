@@ -1,5 +1,20 @@
 # Schedules
 
+## Sprint #11 (10/09 ~ 10/27)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Cecilia     | WIP    |
+|            | Dean        | WIP    |
+|            | Shirley     | WIP    |
+|            | Lisa        | WIP    |
+| Jake       | Charlie     | WIP    |
+|            | Lily        | WIP    |
+|            | Bin         | WIP    |
+| Ben        | Jane        | WIP    |
+|            | Jeanne      | WIP    |
+|            | Martin      | WIP    |
+
 ## Sprint #10 (09/18 ~ 09/28)
 
 | Corrector  | Member      | Status |
@@ -7,9 +22,9 @@
 | Miller     | Dean        | DONE   |
 |            | Martin      | DONE   |
 |            | Shirley     | DONE   |
-| Jake       | Bin         | WIP    |
-|            | Charlie     | WIP    |
-|            | Lily        | WIP    |
+| Jake       | Bin         | DONE   |
+|            | Charlie     | DONE   |
+|            | Lily        | DONE   |
 
 ## Sprint #9 (09/04 ~ 09/15)
 
@@ -78,7 +93,7 @@
 | Jake       | Bin         | DONE   |
 |            | Lily        | DONE   |
 |            | Larry       | DONE   |
-| Hai        | Dean        | WIP    |
+| Hai        | Dean        | DONE   |
 
 P.S. Jary has reached our criteria, so the review is no longer needed.
 
@@ -120,4 +135,3 @@ P.S. Jary has reached our criteria, so the review is no longer needed.
 |            | Jary        | DONE   |
 | Hai        | Bin         | DONE   |
 |            | Charlie     | DONE   |
-
