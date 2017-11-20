@@ -8,6 +8,7 @@ A policy namespace "policies-20171012-090936" with no files as below:
 
 But from smtp.log point as below  the "default" file under "policies-20171012-090936" which is not exist:
   20171016 071236518+0100 devcamaro14 smtp 15883 0 140339469268736 Info;SmtpPluginDispatcherMiscPolicyLoaded(2080/2) id=================:policy=/home/cyang/install/remote/10_128_17_1/razorgate-HEAD/install/mira/usr/store/policies/policies-20171012-090936/default
+
 This log is not correct here, please help to confirm whether need the log point as "Warn"  instead of "Info";
    
 
