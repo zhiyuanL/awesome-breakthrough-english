@@ -1,0 +1,22 @@
+Hi Ciaran,
+
+For the ticket https://jira.synchronoss.net:8443/jira/browse/RAZORGATE-2826(About the default value of MaxLogFileSize (RG5.8-MR3)), 
+I saw your comment mentioned that the default value of MaxLogFileSize should be same for all placess; but  there is no changes compared with previous RG version. 
+
+checked all default value of MaxLogFileSize on RG5.8.046 as below:
+[root@devcamaro vadeasd]# $MIRA_ROOT/usr/bin//mgr.sh -s 10.128.17.1 -p 4200 get MaxLogFileSize
+* MaxLogFileSize VALUE 102400
+OK
+[root@devcamaro vadeasd]# $MIRA_ROOT/usr/bin//mgr.sh -s 10.128.17.1 -p 4237 get MaxLogFileSize  
+* MaxLogFileSize VALUE 4096
+OK
+[root@devcamaro vadeasd]# $MIRA_ROOT/usr/bin//mgr.sh -s 10.128.17.1 -p 4235 get MaxLogFileSize 
+* MaxLogFileSize VALUE 4096
+OK
+[root@devcamaro vadeasd]# $MIRA_ROOT/usr/bin//mgr.sh -s 10.128.17.1 -p 4241 get MaxLogFileSize  
+* MaxLogFileSize VALUE 4096
+OK
+
+I will reopen it and assign to you.
+
+Thanks, Cecilia
