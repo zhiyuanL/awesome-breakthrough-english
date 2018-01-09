@@ -1,0 +1,23 @@
+Hi Killian,
+Today I ran this script razorgate-tests/tests/policies/comparisons/abuse_test/vdmarc with below rule, I can’t get %%dmarc_mode%% = virtual, the value is always normal
+                        if abuse_test [ "dmarc" ] :is [ "blah" ]
+                        {
+                            log "blah1";
+                        }
+                        if abuse_test [ "vdmarc" ] :is [ "blah" ]
+                        {
+                            log "blah2";
+                        }
+                        smtp_error " mode=%%DATA:dmarc_mode%% 500 DMARC:%%SUBJECT%% %%DATA:dmarc%% %%DATA:dmarc_result%% %%DATA:dmarc_spf_result_code%% %%DATA:dmarc_dkim_result_code%% (%%DATA:dmarc_domain%%) %%DATA:vdmarc%% %%DATA:vdmarc_result%% %%DATA:vdmarc_spf_result_code%% %%DATA:vdmarc_dkim_result_code%% (%%DATA:vdmarc_domain%%)";
+                        
+Send a mail I always get below:
+....
+Sending command (to devcrown30.es.cpth.ie:2525): .
+Received: 451 mode=normal  500 DMARC:aaa not_executed 6 100 100 (sheep1.ears18382.test) pass 0 0 7 (sheep1.ears18382.test)
+Got an ERROR response
+
+
+Normal DMARC is not executed, virtual dmarc result is pass, but why the result of %%dmarc_mode%% is normal not virtual;
+
+Thanks,
+Cecilia
