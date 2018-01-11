@@ -1,13 +1,26 @@
 # Schedules
 
-## Sprint #13 (10/28 ~ 11/21)
+## Sprint #14 (12/19 ~ 01/10/2018)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Bin         | WIP    |
-|            | Charlie     | WIP    |
-| Jake       | Cecilia     | WIP    |
-|            | Lily        | WIP    |
+| Miller     | Cecilia     | DONE   |
+|            | Lily        | DONE   |
+|            | Shirley     | DONE   |
+| Jake       | Bin         | DONE   |
+|            | Lisa        | DONE   |
+| Ben        | Jane        | DONE   |
+|            | Jeanne      | DONE   |
+|            | Dean        | DONE   |
+|            | Charlie     | DONE   |
+## Sprint #13 (11/22 ~ 12/18)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Bin         | DONE   |
+|            | Charlie     | DONE   |
+| Jake       | Cecilia     | DONE   |
+|            | Lily        | DONE   |
 | Ben        | Jane        | DONE   |
 |            | Jeanne      | DONE   |
 |            | Dean        | DONE   |
