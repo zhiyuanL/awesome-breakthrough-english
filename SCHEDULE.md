@@ -1,5 +1,18 @@
 # Schedules
 
+## Sprint #15 (01/11 ~ 03/16)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Martin      | WIP    |
+|            | Bin         | WIP    |
+|            | Shirley     | WIP    |
+| Jake       | Jane        | WIP    |
+|            | Charlie     | WIP    |
+| Ben        | Dean        | WIP    |
+|            | Jeanne      | WIP    |
+|            | Lily        | WIP    |
+|            | Lisa        | WIP    |
 ## Sprint #14 (12/19 ~ 01/10/2018)
 
 | Corrector  | Member      | Status |
