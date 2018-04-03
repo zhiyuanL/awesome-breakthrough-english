@@ -1,18 +1,30 @@
 # Schedules
 
+## Sprint #16 (03/17 ~ 04/03)
+
+| Corrector  | Member      | Status |
+|:----------:|:-----------:|:------:|
+| Miller     | Shirley     | DONE   |
+|            | Martin      | DONE   |
+| Jake       | Jane        | DONE   |
+|            | Bin         | DONE   |
+| Ben        | Dean        | DONE   |
+|            | Jeanne      | DONE   |
+|            | Lily        | DONE   |
+
 ## Sprint #15 (01/11 ~ 03/16)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
-| Miller     | Martin      | WIP    |
-|            | Bin         | WIP    |
-|            | Shirley     | WIP    |
-| Jake       | Jane        | WIP    |
-|            | Charlie     | WIP    |
-| Ben        | Dean        | WIP    |
-|            | Jeanne      | WIP    |
-|            | Lily        | WIP    |
-|            | Lisa        | WIP    |
+| Miller     | Martin      | DONE   |
+|            | Bin         | DONE   |
+|            | Shirley     | DONE   |
+| Jake       | Jane        | DONE   |
+|            | Charlie     | DONE   |
+| Ben        | Dean        | DONE   |
+|            | Jeanne      | DONE   |
+|            | Lily        | DONE   |
+|            | Lisa        | DONE   |
 ## Sprint #14 (12/19 ~ 01/10/2018)
 
 | Corrector  | Member      | Status |
