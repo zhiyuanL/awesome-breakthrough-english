@@ -7,8 +7,7 @@
 | Miller     | Dean        | WIP    |
 |            | Shirley     | WIP    |
 |            | Lisa        | WIP    |
-| Jake       | Jane        | WIP    |
-|            | Bin         | WIP    |
+| Jake       | Bin         | WIP    |
 |            | Charlie     | WIP    |
 | Ben        | Martin      | WIP    |
 |            | Jeanne      | WIP    |
