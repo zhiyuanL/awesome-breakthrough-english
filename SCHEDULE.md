@@ -1,6 +1,6 @@
 # Schedules
 
-## Sprint #17 (04？04 ~ 05/23)
+## Sprint #17 (04/04 ~ 05/23)
 
 | Corrector  | Member      | Status |
 |:----------:|:-----------:|:------:|
